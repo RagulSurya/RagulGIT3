@@ -6,5 +6,10 @@ public class SuriyA {
 	System.out.println(Movie);
 	String Review ="Super Movie";
 	System.out.println(Review);
+	String r = "Movie Review is Ultimate ";
+	System.out.println(r);
+	String rr = "Rating of the movie is 7.7";
+	System.out.println(rr);
+
 	}
 }
